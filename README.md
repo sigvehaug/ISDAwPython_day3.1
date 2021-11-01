@@ -9,8 +9,8 @@ This repository contains the course material for the first half of the third day
 
 # Schedule
 
-- 09:00 - 09:30 Discussion
-- 09:30 - 10:30 Descriptive Statistics 
-- 10:30 - 11:00 Break
-- 11:00 - 12:30 Regression and Hypothesis Testing
-- 12:30 - 13:30 Lunch
+- 13:30 - 13:40 Welcome
+- 13:40 - 15:00 Descriptive Statistics 
+- 15:00 - 15:30 Break
+- 15:30 - 16:45 Regression and Hypothesis Testing
+- 16:45 - 17:00 Feedback
