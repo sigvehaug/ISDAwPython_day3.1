@@ -5,7 +5,7 @@
 
 # Introduction to Statistical Data Analysis and Visualization with Python
 
-This repository contains the course material for the first half of the third day of the course "Introduction to Statistical Data Analysis and Visualization with Python" given at Bern University by the Science IT Support unit in the frame of the [Transferable Skills](https://www.unibe.ch/forschung/nachwuchsfoerderung/ts/ts/ressource_veranstaltungen/fs21/python_fs21/python_fs21/index_ger.html#pane1014835) program of Bern University's Vice-Rectorate for Development.
+This repository contains the course material for one half of the third day of the course "Introduction to Statistical Data Analysis and Visualization with Python" given at Bern University by the Science IT Support unit in the frame of the [Transferable Skills](https://www.unibe.ch/forschung/nachwuchsfoerderung/ts/ts/ressource_veranstaltungen/fs21/python_fs21/python_fs21/index_ger.html#pane1014835) program of Bern University's Vice-Rectorate for Development.
 
 # Schedule
 
